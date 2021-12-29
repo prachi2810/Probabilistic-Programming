@@ -1,1 +1,14 @@
 Happiness Dataset
+The joy scores and rankings utilize information from the Gallup World Survey. The scores are based on answers to the most life evaluation address inquired within the survey.
+The columns taking after the bliss score assess the degree to which each of six variables – financial generation, social back, life anticipation, flexibility, nonattendance of debasement, and liberality –
+contribute to making life assessments higher in each nation than they are in Dystopia, a theoretical nation that has values rise to to the world’s least national
+midpoints for each of the six variables. They have no affect on the full score detailed for each nation, but they do exp
+
+This file contains the Happiness Score for 153 countries along with the factors used to explain the score.
+GDP per capita
+Healthy Life Expectancy
+Social support
+Freedom to make life choices
+Generosity
+Corruption Perception
+Residual erro
